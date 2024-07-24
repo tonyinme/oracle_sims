@@ -80,10 +80,10 @@ ABL.stats_output_frequency = 5
 OceanWaves.label = Wave1
 OceanWaves.Wave1.type = LinearWaves
 OceanWaves.Wave1.wave_height=5.0
-OceanWaves.Wave1.wave_length=40.0
+OceanWaves.Wave1.wave_length=256.0
 OceanWaves.Wave1.water_depth=640
-OceanWaves.Wave1.relax_zone_gen_length=120.0
-OceanWaves.Wave1.relax_zone_out_length=120.0
+OceanWaves.Wave1.relax_zone_gen_length=1280.0
+OceanWaves.Wave1.relax_zone_out_length=1280.0
 
 #OceanWaves.label = "W2A1"
 #OceanWaves.W2A1.type = "W2AWaves"
